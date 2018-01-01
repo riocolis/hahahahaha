@@ -88,7 +88,7 @@ a.navbar-brand span {
 	background-color: #36CBD4;
 }
 .nav-tabs > li.active > a {
-	color: #fff;
+  color:#000000;
   cursor: default;
   background-color:#36CBD4;
   border: 0;
